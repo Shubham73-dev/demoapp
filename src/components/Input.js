@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 
 const Input = ({labelValue, txtInput}) => {
     const placeHolder = `Type ${labelValue} Name Here`;
